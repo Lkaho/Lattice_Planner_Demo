@@ -13,4 +13,4 @@ Using quintic polynomial to fit lateral 1D trajectory and  quartic polynomial to
   
 - Simulation Result
 
-  ![sim](/home/kaho/Workspaces/carmp_ws/lattice_ws/src/sim.gif)
+  ![img](https://github.com/Lkaho/Lattice_Planner_Demo/blob/main/lattice_sim.gif)
