@@ -9,6 +9,8 @@ Using quintic polynomial to fit lateral 1D trajectory and  quartic polynomial to
   - Longitude speed sampling
   - Time sampling
 
+  **The main function see path_planning/src/frenet_optimal_trajectory**
+  
 - Simulation Result
 
   ![sim](/home/kaho/Workspaces/carmp_ws/lattice_ws/src/sim.gif)
